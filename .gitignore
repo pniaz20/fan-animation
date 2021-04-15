@@ -1,39 +1,39 @@
 # VS and VSCODE folders, always a pain in the butt
-fan-animation/.vs/*
-fan-animation/.vscode/*
+fan-animate/.vs/*
+fan-animate/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-fan-animation/*.code-workspace
+fan-animate/*.code-workspace
 # Local History for Visual Studio Code
-fan-animation/.history/
+fan-animate/.history/
 
 # Prerequisites
-fan-animation/*.d
+fan-animate/*.d
 
 # Compiled Object files
-fan-animation/*.slo
-fan-animation/*.lo
-fan-animation/*.o
-fan-animation/*.obj
+fan-animate/*.slo
+fan-animate/*.lo
+fan-animate/*.o
+fan-animate/*.obj
 
 # Precompiled Headers
-fan-animation/*.gch
-fan-animation/*.pch
+fan-animate/*.gch
+fan-animate/*.pch
 
 # Compiled Dynamic libraries
-fan-animation/*.so
-fan-animation/*.dylib
-fan-animation/*.dll
+fan-animate/*.so
+fan-animate/*.dylib
+fan-animate/*.dll
 
 # Compiled Static libraries
-fan-animation/*.lai
-fan-animation/*.la
-fan-animation/*.a
-fan-animation/*.lib
+fan-animate/*.lai
+fan-animate/*.la
+fan-animate/*.a
+fan-animate/*.lib
 
 # Executables
-fan-animation/*.exe
-fan-animation/*.out
-fan-animation/*.app
+fan-animate/*.exe
+fan-animate/*.out
+fan-animate/*.app
