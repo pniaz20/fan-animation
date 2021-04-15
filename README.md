@@ -1,4 +1,4 @@
-# fan-animation ![coin3d](doc/Coin3D-4--0--0-blue.svg) ![license](doc/license-MIT-green.svg) ![platform](doc/platform-win64-yellow.svg) ![C++](doc/C++-v14--17-orange.svg) ![vsversion](doc/Visual Studio-v2014--2019-red.svg)
+# fan-animation ![coin3d](doc/Coin3D-4--0--0-blue.svg) ![license](doc/license-MIT-green.svg) ![platform](doc/platform-win64-yellow.svg) ![C++](doc/C++-v14--17-orange.svg) ![vsversion](doc/VisualStudio-v2014--2019-red.svg)
 
 Interactive animation of a PC cooling fan using Coin3D (easy-to-use OpenInventor Library based on OpenGL), very useful and constructive for beginners in computer graphics or amateurs who are not planning to use OpenGL professionally. OpenInventor provides a very simple and easy-to-code API useful for many elementary and advanced computer graphics projects.
 
