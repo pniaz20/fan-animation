@@ -1,0 +1,10 @@
+﻿  fan-animate.cpp
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(53,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(131,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(243,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(247,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(280,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(285,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(286,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\fan-animate\fan-animate.cpp(287,22): warning C4305: '=': truncation from 'double' to 'float'
+  fan-animate.vcxproj -> D:\POUYA_DOCUMENTS\MYREPOS\fan-animation\fan-animation\fan-animate\x64\Debug\fan-animate.exe
